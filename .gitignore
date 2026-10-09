@@ -1,0 +1,4 @@
+# What vn1_benchmarks.py writes next to the data. The reference copies are in Benchmarks/.
+/Benchmark Phase *.csv
+__pycache__/
+*.pyc
