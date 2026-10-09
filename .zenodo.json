@@ -1,0 +1,12 @@
+{
+  "title": "VN1 Forecasting – Accuracy Challenge",
+  "upload_type": "dataset",
+  "description": "<p>Weekly sales and prices of 15,053 product-warehouse combinations from 46 e-vendors, from July 2020 to April 2024, from the VN1 forecasting competition of 2024. With the official scoring code, the two benchmarks and the five winning forecasts.</p><p>Organized by Nicolas Vandeput (SupChains). Data provided by Flieber. Sponsored by Flieber, Syrup and SupChains. Page and results: https://supchains.com/vn1-forecasting-competition/</p>",
+  "creators": [
+    {"name": "Vandeput, Nicolas", "affiliation": "SupChains"}
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": ["demand forecasting", "sales forecasting", "time series", "retail", "forecasting competition"],
+  "notes": "If you use the data or the code of VN1, please cite the competition: Vandeput, N. (2024). VN1 Forecasting – Accuracy Challenge. Organized by Nicolas Vandeput (SupChains). Data provided by Flieber. Sponsored by Flieber, Syrup and SupChains. https://supchains.com/vn1-forecasting-competition/"
+}
