@@ -1,6 +1,6 @@
 # VN1 Forecasting Competition: data, code and benchmarks
 
-[![DOI](https://zenodo.org/badge/1411623226.svg)](https://doi.org/10.5281/zenodo.23265103)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23265103-blue.svg)](https://doi.org/10.5281/zenodo.23265103)
 
 VN1 was a forecasting competition organized by Nicolas Vandeput ([SupChains](https://supchains.com/))
 in 2024. In total, 978 participants registered to forecast 13 weeks of sales for 15,053
