@@ -12,6 +12,7 @@ authors:
     affiliation: SupChains
     website: "https://supchains.com/"
 date-released: 2024-09-12
+doi: 10.5281/zenodo.23265103
 url: "https://supchains.com/vn1-forecasting-competition/"
 repository-code: "https://github.com/SupChains/VN1"
 license: CC-BY-4.0
@@ -29,5 +30,6 @@ preferred-citation:
       given-names: Nicolas
       affiliation: SupChains
   year: 2024
+  doi: 10.5281/zenodo.23265103
   url: "https://supchains.com/vn1-forecasting-competition/"
   notes: "Organized by Nicolas Vandeput (SupChains). Data provided by Flieber. Sponsored by Flieber, Syrup and SupChains."

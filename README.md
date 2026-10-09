@@ -1,5 +1,7 @@
 # VN1 Forecasting Competition: data, code and benchmarks
 
+[![DOI](https://zenodo.org/badge/1411623226.svg)](https://doi.org/10.5281/zenodo.23265103)
+
 VN1 was a forecasting competition organized by Nicolas Vandeput ([SupChains](https://supchains.com/))
 in 2024. In total, 978 participants registered to forecast 13 weeks of sales for 15,053
 product-warehouse combinations, on real retail data.
@@ -182,6 +184,10 @@ The data is free to use. When you use it, please cite the competition:
 
 GitHub's "Cite this repository" button gives the same reference in APA and BibTeX, from
 [CITATION.cff](CITATION.cff).
+
+The data and the code are archived on Zenodo, with the DOI
+[10.5281/zenodo.23265103](https://doi.org/10.5281/zenodo.23265103). This DOI always points to the
+latest version.
 
 To cite what the winners did, cite the article of *Foresight*:
 
